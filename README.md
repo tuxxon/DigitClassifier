@@ -11,4 +11,6 @@ For codlabs = https://github.com/tensorflow/examples/tree/master/lite/examples/d
 * 안드로이드 앱으로 포팅.
 * 제작 과정을 유투브 동영상 제작 = https://youtu.be/vL0J0Fyfa4k
 
+[![Video Label](http://img.youtube.com/vi/vL0J0Fyfa4k/0.jpg)](https://youtu.be/vL0J0Fyfa4k?t=0s)
+
 <img src="https://storage.googleapis.com/khanhlvg-public.appspot.com/digit-classifier/screenshot_android.png" />
